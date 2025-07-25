@@ -3,7 +3,7 @@
   "wake_word": "Servitor",
   "author": "Pavel Nakaznenko",
   "website": "https://github.com/KPEKEP",
-  "model": "servitor.tflite",
+  "model": "https://raw.githubusercontent.com/KPEKEP/CustomWakewords/refs/heads/main/servitor.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
